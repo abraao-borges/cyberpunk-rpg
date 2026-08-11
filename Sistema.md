@@ -106,7 +106,57 @@
 <li><strong>Teto Absoluto:</strong> Atributos até 10; Perícias até 10 via experiência. Implantes podem extrapolar limites.</li>
 </ul>
 <h2 id="lista-de-perícias">8. Lista de Perícias</h2>
-<p>Aeroespacial, Armeiro, Arrombamento, Artes Marciais, Atuação, Atletismo, Biologia/Botânica/Zoologia, Briga, Cibernética, Corpo a Corpo, Demolições, Diagnóstico, Direção/Moto/Pilotagem, Disfarce, Educação, Eletrônica, Escrita, Esgrima, Esquiva, Etiqueta, Falsificação, Farmacêutica, Física/Geologia/Matemática, Fotografia/Pintura, Furtividade, Fuzis/Pistolas/Submetralhadoras, Gambiarra, História/Antropologia, Idioma, Instrumento, Interrogatório, Intimidação, Investigação, Jogos, Lábia, Liderança, Maquinário, Medicina, Ocultação, Percepção, Pesquisa, Programação, Rastreio, Resistência, Sedução, Segurança, Socorros, Sobrevivência, Sistemas.</p>
+<ul>
+<li><strong>Aeroespacial:</strong> Operação e pilotagem de aeronaves.</li>
+<li><strong>Armeiro:</strong> Manutenção, reparo e modificação de armas de fogo.</li>
+<li><strong>Arrombamento:</strong> Técnica para abrir fechaduras físicas e digitais.</li>
+<li><strong>Artes Marciais:</strong> Técnicas avançadas de combate desarmado.</li>
+<li><strong>Atuação:</strong> Capacidade de interpretar papéis e fingir emoções.</li>
+<li><strong>Atletismo:</strong> Proezas físicas como escalar, saltar e correr.</li>
+<li><strong>Biologia/Botânica/Zoologia:</strong> Conhecimento sobre formas de vida.</li>
+<li><strong>Briga:</strong> Combate desarmado bruto, sem técnica refinada.</li>
+<li><strong>Cibernética:</strong> Instalação e manutenção de componentes cibernéticos.</li>
+<li><strong>Corpo a Corpo:</strong> Uso de armas brancas (lâminas, bastões).</li>
+<li><strong>Demolições:</strong> Manipulação e uso estratégico de explosivos.</li>
+<li><strong>Diagnóstico:</strong> Identificação rápida de falhas em máquinas ou sistemas.</li>
+<li><strong>Direção/Moto/Pilotagem:</strong> Operação de veículos terrestres ou aquáticos.</li>
+<li><strong>Disfarce:</strong> Capacidade de alterar a aparência para ocultar identidade.</li>
+<li><strong>Educação:</strong> Conhecimento acadêmico e cultura geral.</li>
+<li><strong>Eletrônica:</strong> Reparo e montagem de circuitos e hardware.</li>
+<li><strong>Escrita:</strong> Habilidade em redigir textos, relatórios ou literatura.</li>
+<li><strong>Esgrima:</strong> Maestria no uso de espadas e lâminas longas.</li>
+<li><strong>Esquiva:</strong> Reflexos focados em desviar de ataques.</li>
+<li><strong>Etiqueta:</strong> Conhecimento das normas sociais e comportamento formal.</li>
+<li><strong>Falsificação:</strong> Criação de documentos, IDs e assinaturas falsas.</li>
+<li><strong>Farmacêutica:</strong> Criação e manipulação de substâncias químicas e remédios.</li>
+<li><strong>Física/Geologia/Matemática:</strong> Ciências exatas aplicadas.</li>
+<li><strong>Fotografia/Pintura:</strong> Habilidades em artes visuais e registro.</li>
+<li><strong>Furtividade:</strong> Capacidade de se mover sem ser notado.</li>
+<li><strong>Fuzis/Pistolas/Submetralhadoras:</strong> Proficiência no uso de armas de fogo.</li>
+<li><strong>Gambiarra:</strong> Improvisação técnica para consertos rápidos.</li>
+<li><strong>História/Antropologia:</strong> Conhecimento sobre o passado e culturas.</li>
+<li><strong>Idioma:</strong> Fluência em línguas além da nativa.</li>
+<li><strong>Instrumento:</strong> Proficiência técnica em tocar instrumentos musicais.</li>
+<li><strong>Interrogatório:</strong> Extração de informações através de pressão.</li>
+<li><strong>Intimidação:</strong> Coerção e medo para influenciar outros.</li>
+<li><strong>Investigação:</strong> Busca minuciosa por pistas e informações.</li>
+<li><strong>Jogos:</strong> Estratégia e habilidade em competições de mesa ou vídeo.</li>
+<li><strong>Lábia:</strong> Persuasão verbal e capacidade de convencer.</li>
+<li><strong>Liderança:</strong> Comando e coordenação de grupos de pessoas.</li>
+<li><strong>Maquinário:</strong> Operação de máquinas pesadas e industriais.</li>
+<li><strong>Medicina:</strong> Cirurgias complexas e tratamento de traumas graves.</li>
+<li><strong>Ocultação:</strong> Habilidade em esconder itens pequenos no corpo ou ambiente.</li>
+<li><strong>Percepção:</strong> Atenção sensorial apurada ao ambiente.</li>
+<li><strong>Pesquisa:</strong> Busca e filtragem de dados em arquivos ou redes.</li>
+<li><strong>Programação:</strong> Escrita e desenvolvimento de software.</li>
+<li><strong>Rastreio:</strong> Capacidade de seguir trilhas ou perseguir alvos.</li>
+<li><strong>Resistência:</strong> Tolerância a dores, fadiga e ambientes hostis.</li>
+<li><strong>Sedução:</strong> Uso de charme pessoal para manipular interações.</li>
+<li><strong>Segurança:</strong> Conhecimento em protocolos e sistemas de vigilância.</li>
+<li><strong>Socorros:</strong> Primeiros socorros e estabilização de feridos.</li>
+<li><strong>Sobrevivência:</strong> Capacidade de subsistir em ambientes ermos.</li>
+<li><strong>Sistemas:</strong> Habilidade em navegar e hackear redes digitais.</li>
+</ul>
 </div>
 </body>
 
